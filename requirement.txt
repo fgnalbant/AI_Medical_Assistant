@@ -1,7 +1,7 @@
-streamlit 
-crewai 
-crewai.tools
-python-dotenv 
-langchain_openai
+streamlit>=1.48.0
+crewai>=0.28.8
+python-dotenv>=1.0.0
+langchain-openai>=0.1.0
 langchain_community
+git+https://github.com/joaomdmoura/crewai.git
 python-docx
